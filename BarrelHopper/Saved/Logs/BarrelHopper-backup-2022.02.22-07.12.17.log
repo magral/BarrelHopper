@@ -1,0 +1,1625 @@
+﻿Log file open, 02/21/22 16:44:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: BarrelHopper
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.767276
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 7 2700X Eight-Core Processor         , GPU: NVIDIA GeForce RTX 2080
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:630][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.22-00.44.57:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.22-00.44.57:644][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.22-00.44.57:645][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.22-00.44.57:645][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.02.22-00.44.57:645][  0]LogHAL: Display: Platform has ~ 16 GB [17085034496 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.02.22-00.44.57:645][  0]LogInit: Going up to parent DeviceProfile []
+[2022.02.22-00.44.57:645][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.02.22-00.44.57:645][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.02.22-00.44.57:646][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:647][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Scalability.ini]
+[2022.02.22-00.44.57:647][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.02.22-00.44.57:647][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.02.22-00.44.57:651][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.02.22-00.44.57:651][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.02.22-00.44.57:651][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.02.22-00.44.57:651][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Engine.ini]
+[2022.02.22-00.44.57:651][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Config/Windows/Editor.ini]
+[2022.02.22-00.44.57:651][  0]LogInit: Computer: DESKTOP-08T94FI
+[2022.02.22-00.44.57:651][  0]LogInit: User: TempAdmin
+[2022.02.22-00.44.57:651][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.02.22-00.44.57:651][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.02.22-00.44.57:651][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.02.22-00.44.57:651][  0]LogMemory: Platform Memory Stats for Windows
+[2022.02.22-00.44.57:651][  0]LogMemory: Process Physical Memory: 146.50 MB used, 146.50 MB peak
+[2022.02.22-00.44.57:651][  0]LogMemory: Process Virtual Memory: 128.93 MB used, 128.93 MB peak
+[2022.02.22-00.44.57:651][  0]LogMemory: Physical Memory: 6990.30 MB used,  9303.25 MB free, 16293.56 MB total
+[2022.02.22-00.44.57:651][  0]LogMemory: Virtual Memory: 134205328.00 MB used,  12400.79 MB free, 134217728.00 MB total
+[2022.02.22-00.44.57:656][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.02.22-00.44.57:855][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.02.22-00.44.57:857][  0]LogInit: Using OS detected language (en-US).
+[2022.02.22-00.44.57:857][  0]LogInit: Using OS detected locale (en-US).
+[2022.02.22-00.44.57:876][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.02.22-00.44.58:180][  0]LogInit: Setting process to per monitor DPI aware
+[2022.02.22-00.44.58:225][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.02.22-00.44.58:283][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.02.22-00.44.58:283][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.02.22-00.45.00:421][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.02.22-00.45.00:480][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.02.22-00.45.00:480][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.02.22-00.45.00:480][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.02.22-00.45.00:494][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2022.02.22-00.45.00:494][  0]LogHMD: - XR_KHR_D3D11_enable
+[2022.02.22-00.45.00:494][  0]LogHMD: - XR_KHR_D3D12_enable
+[2022.02.22-00.45.00:494][  0]LogHMD: - XR_KHR_opengl_enable
+[2022.02.22-00.45.00:494][  0]LogHMD: - XR_KHR_vulkan_enable
+[2022.02.22-00.45.00:495][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2022.02.22-00.45.00:495][  0]LogHMD: - XR_KHR_visibility_mask
+[2022.02.22-00.45.00:495][  0]LogHMD: - XR_EXT_hand_tracking
+[2022.02.22-00.45.00:495][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.02.22-00.45.00:495][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.02.22-00.45.00:495][  0]LogD3D11RHI: D3D11 adapters:
+[2022.02.22-00.45.00:611][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2022.02.22-00.45.00:611][  0]LogD3D11RHI:       8010/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.02.22-00.45.00:613][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.02.22-00.45.00:613][  0]LogD3D11RHI:       0/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:    2. 'NVIDIA GeForce RTX 2080' (Feature Level 11_0)
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:       8010/0/8146 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     DeviceId    : 1e87
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     SubSysId    : 37261462
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     SharedSystemMemory : 8542517248 bytes
+[2022.02.22-00.45.00:707][  0]LogD3D11RHI:     AdapterLuid : 0 47688
+[2022.02.22-00.45.00:716][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.02.22-00.45.00:716][  0]LogD3D11RHI:     GPU DeviceId: 0x1e87 (for the marketing name, search the web for "GPU Device Id")
+[2022.02.22-00.45.00:716][  0]LogWindows: EnumDisplayDevices:
+[2022.02.22-00.45.00:716][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2080' (P:1 D:1)
+[2022.02.22-00.45.00:717][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2080' (P:0 D:1)
+[2022.02.22-00.45.00:717][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.02.22-00.45.00:717][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2080' (P:0 D:0)
+[2022.02.22-00.45.00:717][  0]LogWindows:    4. 'Easy&Light Display HUB Virtual Display' (P:0 D:0)
+[2022.02.22-00.45.00:717][  0]LogWindows:    5. 'Easy&Light Display HUB Virtual Display' (P:0 D:0)
+[2022.02.22-00.45.00:718][  0]LogWindows:    6. 'Easy&Light Display HUB Virtual Display' (P:0 D:0)
+[2022.02.22-00.45.00:718][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2080
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:   Driver Version: 472.12 (internal:30.0.14.7212, unified:472.12)
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:      Driver Date: 9-13-2021
+[2022.02.22-00.45.00:718][  0]LogRHI: Texture pool is 5607 MB (70% of 8010 MB)
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2080
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     DeviceId    : 1e87
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     SubSysId    : 37261462
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     DedicatedVideoMemory : 8399093760 bytes
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     SharedSystemMemory : 8542517248 bytes
+[2022.02.22-00.45.00:718][  0]LogD3D11RHI:     AdapterLuid : 0 47688
+[2022.02.22-00.45.00:809][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.02.22-00.45.00:809][  0]LogD3D11RHI: Async texture creation enabled
+[2022.02.22-00.45.00:809][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.02.22-00.45.00:862][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.02.22-00.45.00:898][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.02.22-00.45.01:363][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.02.22-00.45.01:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.02.22-00.45.01:388][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.02.22-00.45.01:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.02.22-00.45.01:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.02.22-00.45.01:412][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.02.22-00.45.01:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.02.22-00.45.01:436][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.02.22-00.45.01:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.02.22-00.45.01:448][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.02.22-00.45.01:469][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.02.22-00.45.01:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.02.22-00.45.01:499][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.02.22-00.45.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.02.22-00.45.01:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.02.22-00.45.01:548][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.02.22-00.45.01:553][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.02.22-00.45.01:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.02.22-00.45.01:567][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.02.22-00.45.01:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.02.22-00.45.01:578][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.02.22-00.45.01:589][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.02.22-00.45.01:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.02.22-00.45.01:601][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.02.22-00.45.01:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.02.22-00.45.01:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.02.22-00.45.01:648][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.02.22-00.45.01:721][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.02.22-00.45.01:829][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.02.22-00.45.01:830][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Intermediate/Shaders/WorkingDirectory/13660/).
+[2022.02.22-00.45.01:830][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Temp Admin/AppData/Local/Temp/UnrealShaderWorkingDir/37A3A54047D8245F0817468FA1156AE2/'.
+[2022.02.22-00.45.01:831][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.02.22-00.45.01:831][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.02.22-00.45.01:831][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.02.22-00.45.04:561][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.02.22-00.45.04:820][  0]LogDerivedDataCache: Loaded boot cache 0.26s 102MB C:/Users/Temp Admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.22-00.45.04:821][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Temp Admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.02.22-00.45.04:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.02.22-00.45.04:821][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.02.22-00.45.04:821][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.22-00.45.04:821][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.02.22-00.45.04:848][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.02.22-00.45.04:848][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.02.22-00.45.04:848][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.02.22-00.45.04:894][  0]LogDerivedDataCache: Speed tests for C:/Users/Temp Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.05 seconds
+[2022.02.22-00.45.04:895][  0]LogDerivedDataCache: Display: Performance to C:/Users/Temp Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.13ms. RandomReadSpeed=24.13MBs, RandomWriteSpeed=129.42MBs. Assigned SpeedClass 'Local'
+[2022.02.22-00.45.04:896][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Temp Admin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.02.22-00.45.04:896][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.02.22-00.45.04:896][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.02.22-00.45.04:951][  0]LogSlate: Using FreeType 2.10.0
+[2022.02.22-00.45.04:965][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.02.22-00.45.04:982][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.02.22-00.45.04:982][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.02.22-00.45.04:982][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.02.22-00.45.04:995][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_D3D11_enable
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_D3D12_enable
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_opengl_enable
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_vulkan_enable
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_KHR_visibility_mask
+[2022.02.22-00.45.04:995][  0]LogHMD: - XR_EXT_hand_tracking
+[2022.02.22-00.45.05:045][  0]LogAssetRegistry: FAssetRegistry took 0.0047 seconds to start up
+[2022.02.22-00.45.05:393][  0]LogInit: Selected Device Profile: [Windows]
+[2022.02.22-00.45.05:393][  0]LogInit: Active device profile: [00000180DB0F2D00][00000180CD890A00 49] Windows
+[2022.02.22-00.45.05:394][  0]LogInit: Profiles: [00000180DB0F2D00][00000180CD890A00 49] Windows, [00000180DB095900][00000180CDC22B40 49] WindowsNoEditor, [00000180DB0F2100][00000180CDC2ACC0 49] WindowsServer, [00000180DB096400][00000180CDC2EE40 49] WindowsClient, [00000180DB0F3600][00000180DA9FEFC0 49] IOS, [00000180DB097E00][00000180DAA03140 49] iPadAir, [00000180DB0F0900][00000180DAA072C0 49] iPadAir2, [00000180DB035000][00000180DAA0F580 49] IPadPro, [00000180DB035100][00000180DAA0B5C0 49] iPadAir3, [00000180DB0F0800][00000180DAA13740 49] iPadAir4, [00000180DB037100][00000180DAA178C0 49] iPadMini2, [00000180DB034800][00000180DAA1BA40 49] iPadMini3, [00000180DB096000][00000180DAA1FBC0 49] iPadMini4, [00000180DB037F00][00000180DAA221C0 49] iPadMini5, [00000180DB070900][00000180DAA2A480 49] iPhone6, [00000180DB070A00][00000180DAA264C0 49] iPodTouch6, [00000180DB0F0700][00000180DAA32780 49] iPhone7, [00000180DB0F1400][00000180DAA2E7C0 49] iPodTouch7, [00000180DB070300][00000180DAA36940 49] iPhone5S, [00000180DB096C00][00000180CDC26A80 49] iPhone6Plus, [00000180DB073B00][00000180DAA3ABC0 49] iPhone6S, [00000180DB094A00][00000180CD732D00 49] iPhone6SPlus, [00000180DB073500][00000180CD73AE80 49] iPhone7Plus, [00000180DB094800][00000180CD73F000 49] iPhoneSE, [00000180DB072100][00000180CD743180 49] iPhone8, [00000180DB097600][00000180CD747300 49] iPhone8Plus, [00000180DB070400][00000180CD74B480 49] iPhoneX, [00000180DB097100][00000180CD74F600 49] iPhoneXS, [00000180DB0F1800][00000180CD753780 49] iPhoneXSMax, [00000180DB094300][00000180CD757900 49] iPhoneXR, [00000180DB0F3300][00000180CD75BA80 49] iPhone11, [00000180DB095700][00000180CD75FC00 49] iPhone11Pro, [00000180DB0F1000][00000180CD762200 49] iPhone11ProMax, [00000180DB094F00][00000180CD766380 49] iPhoneSE2, [00000180DB0F2700][00000180CD76A500 49] iPhone12Mini, [00000180DB095600][00000180CD76E680 49] iPhone12, [00000180DB0F1D00][00000180CD772800 49] iPhone12Pro, [00000180DB097000][00000180CD776980 49] iPhone12ProMax, [00000180DB0F0E00][00000180CD77AB00 49] iPadPro105, [00000180DB097500][00000180CD736C40 49] iPadPro129, [00000180DB0F2A00][00000180DBC6AD80 49] iPadPro97, [00000180DB095100][00000180DBC6EEC0 49] iPadPro2_129, [00000180DB0F0100][00000180DBC77040 49] iPad5, [00000180DB096800][00000180DBC7B1C0 49] iPad6, [00000180DB0F1500][00000180DBC7F340 49] iPad7, [00000180DB094E00][00000180DBC834C0 49] iPad8, [00000180DB0F0F00][00000180DBC87640 49] iPadPro11, [00000180DB094700][00000180DBC8B7C0 49] iPadPro2_11, [00000180DB0F1600][00000180DBC8F940 49] iPadPro3_129, [00000180DB097800][00000180DBC93AC0 49] iPadPro4_129, [00000180DB0F1200][00000180DBC960C0 49] AppleTV, [00000180DB097300][00000180DBC9A240 49] AppleTV4K, [00000180DB0F2F00][00000180DBC9E3C0 49] TVOS, [00000180DB096500][00000180DBCA2540 49] Mac, [00000180DB0F1E00][00000180DBCA66C0 49] MacClient, [00000180DB096300][00000180DBCAA840 49] MacNoEditor, [00000180DB0F3800][00000180DBCAE9C0 49] MacServer, [00000180DB097400][00000180DBCB2B40 49] Linux, [00000180DB0F2B00][00000180DBCB6CC0 49] LinuxAArch64, [00000180DB094B00][00000180DBC72E00 49] LinuxNoEditor, [00000180DB0F3700][00000180DBCBAF40 49] LinuxAArch64NoEditor, [00000180DB095C00][00000180DBCBF080 49] LinuxClient, [00000180DB0F1B00][00000180DBCC31C0 49] LinuxAArch64Client, [00000180DB097F00][00000180DBCCB340 49] LinuxServer, [00000180DB0F0200][00000180DBCCF4C0 49] LinuxAArch64Server, [00000180DB096100][00000180DBCD3640 49] Android, [00000180DB0F0500][00000180DBCD77C0 49] Android_Low, [00000180DB096F00][00000180DBCDB940 49] Android_Mid, [00000180DB0F2400][00000180DBCDFAC0 49] Android_High, [00000180DB072000][00000180DBCE20C0 49] Android_Default, [00000180DB035800][00000180DBCE6240 49] Android_Adreno4xx, [00000180DB072A00][00000180DBCEA3C0 49] Android_Adreno5xx_Low, [00000180DB035900][00000180DBCEE540 49] Android_Adreno5xx, [00000180DB070100][00000180DBCF26C0 49] Android_Adreno6xx, [00000180DB035A00][00000180DBCF6840 49] Android_Adreno6xx_Vulkan, [00000180DB071100][00000180DBCFA9C0 49] Android_Mali_T6xx, [00000180DB036600][00000180DBCFEB40 49] Android_Mali_T7xx, [00000180DB073200][00000180DBD02CC0 49] Android_Mali_T8xx, [00000180DB037E00][00000180DBD06E40 49] Android_Mali_G71, [00000180DB070500][00000180DBCC6F80 49] Android_Mali_G72, [00000180DB036E00][00000180DBD0B0C0 49] Android_Mali_G72_Vulkan, [00000180DB071E00][00000180DBD0F200 49] Android_Mali_G76, [00000180DB035300][00000180DBD13340 49] Android_Mali_G76_Vulkan, [00000180DB070800][00000180DBD1B4C0 49] Android_Mali_G77, [00000180DB034100][00000180DBD1F640 49] Android_Mali_G77_Vulkan, [00000180DB073C00][00000180DBD237C0 49] Android_Mali_G78, [00000180DB034A00][00000180DBD27940 49] Android_Mali_G78_Vulkan, [00000180DB073800][00000180DBD2BAC0 49] Android_Mali_G710, [00000180DB035E00][00000180DBD2E0C0 49] Android_Mali_G710_Vulkan, [00000180DB072D00][00000180DBD32240 49] Android_Vulkan_SM5, [00000180DB034200][00000180DBD363C0 49] Android_PowerVR_G6xxx, [00000180DB073D00][00000180DBD3A540 49] Android_PowerVR_GT7xxx, [00000180DB036500][00000180DBD3E6C0 49] Android_PowerVR_GE8xxx, [00000180DB072B00][00000180DBD42840 49] Android_PowerVR_GM9xxx, [00000180DB036200][00000180DBD469C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000180DB071300][00000180DBD4AB40 49] Android_TegraK1, [00000180DB036800][00000180DBD4ECC0 49] Android_Unknown_Vulkan, [00000180DB071500][00000180DBD52E40 49] Lumin, [00000180DB097C00][00000180DBD56FC0 49] Lumin_Desktop, [00000180DB072900][00000180DBD5B140 49] HoloLens, 
+[2022.02.22-00.45.05:634][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.02.22-00.45.05:634][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.02.22-00.45.05:634][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.02.22-00.45.05:635][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.02.22-00.45.05:635][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.02.22-00.45.05:701][  0]LogNetVersion: BarrelHopper 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1164582466)
+[2022.02.22-00.45.06:795][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.22-00.45.06:946][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.02.22-00.45.06:953][  0]LogUObjectArray: 17075 objects as part of root set at end of initial load.
+[2022.02.22-00.45.06:953][  0]LogUObjectAllocator: 4275792 out of 0 bytes used by permanent object pool.
+[2022.02.22-00.45.06:953][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.02.22-00.45.07:607][  0]LogPython: Using Python 3.7.7
+[2022.02.22-00.45.08:373][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 22BA4C3F46EBF53E2EE212A271564D80 | Instance: AAACA36145876541A0F4BC982EF07FE4 (DESKTOP-08T94FI-13660).
+[2022.02.22-00.45.08:654][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.02.22-00.45.08:661][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.02.22-00.45.08:815][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.02.22-00.45.08:815][  0]LogLinker: Warning: Failed to load '/Game/FirstPersonBP/FirstPersonOverview': Can't find file.
+[2022.02.22-00.45.08:815][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C'
+[2022.02.22-00.45.08:960][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.08:960][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.08:966][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.08:971][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.08:978][  0]LogUProjectInfo: Found projects:
+[2022.02.22-00.45.08:996][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.09:400][  0]LogOpenImageDenoise: OIDN starting up
+[2022.02.22-00.45.09:489][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.02.22-00.45.09:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.22-00.45.09:507][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.02.22-00.45.09:920][  0]LogCollectionManager: Loaded 0 collections in 0.002281 seconds
+[2022.02.22-00.45.09:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Collections/' took 0.00s
+[2022.02.22-00.45.09:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Developers/TempAdmin/Collections/' took 0.00s
+[2022.02.22-00.45.09:970][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Collections/' took 0.00s
+[2022.02.22-00.45.09:970][  0]LogOcInput: OculusInput pre-init called
+[2022.02.22-00.45.10:310][  0]LogEngine: Initializing Engine...
+[2022.02.22-00.45.10:327][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.02.22-00.45.10:327][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.02.22-00.45.10:327][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.02.22-00.45.10:340][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_D3D11_enable
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_D3D12_enable
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_opengl_enable
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_vulkan_enable
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_KHR_visibility_mask
+[2022.02.22-00.45.10:340][  0]LogHMD: - XR_EXT_hand_tracking
+[2022.02.22-00.45.10:340][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.02.22-00.45.10:343][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.02.22-00.45.10:630][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.02.22-00.45.10:658][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.02.22-00.45.10:662][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.02.22-00.45.10:667][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.02.22-00.45.10:671][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.02.22-00.45.10:672][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.02.22-00.45.10:672][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-00.45.10:672][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-00.45.10:672][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-00.45.10:673][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-00.45.10:673][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-00.45.10:673][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-00.45.10:673][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-00.45.10:697][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-00.45.10:698][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-00.45.10:726][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.02.22-00.45.10:727][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-00.45.10:745][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-00.45.10:746][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-00.45.10:747][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-00.45.10:748][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-00.45.10:748][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-00.45.10:749][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-00.45.10:749][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-00.45.10:749][  0]LogInit: FAudioDevice initialized.
+[2022.02.22-00.45.10:749][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.02.22-00.45.10:749][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.02.22-00.45.10:886][  0]LogDerivedDataCache: Saved boot cache 0.14s 102MB C:/Users/Temp Admin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.02.22-00.45.10:890][  0]LogInit: Texture streaming: Enabled
+[2022.02.22-00.45.10:906][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.02.22-00.45.10:911][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.02.22-00.45.10:911][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={387E196A-41B4-7BA7-2435-3C8CB9C22F8A}
+[2022.02.22-00.45.10:911][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.02.22-00.45.10:926][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.02.22-00.45.10:975][  0]LogInit: Transaction tracking system initialized
+[2022.02.22-00.45.11:014][  0]BlueprintLog: New page: Editor Load
+[2022.02.22-00.45.11:133][  0]LocalizationService: Localization service is disabled
+[2022.02.22-00.45.11:196][  0]TimingProfiler: Initialize
+[2022.02.22-00.45.11:197][  0]TimingProfiler: OnSessionChanged
+[2022.02.22-00.45.11:197][  0]LoadingProfiler: Initialize
+[2022.02.22-00.45.11:198][  0]LoadingProfiler: OnSessionChanged
+[2022.02.22-00.45.11:198][  0]NetworkingProfiler: Initialize
+[2022.02.22-00.45.11:198][  0]NetworkingProfiler: OnSessionChanged
+[2022.02.22-00.45.11:198][  0]MemoryProfiler: Initialize
+[2022.02.22-00.45.11:198][  0]MemoryProfiler: OnSessionChanged
+[2022.02.22-00.45.11:615][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.02.22-00.45.11:615][  0]LogCook: Display: Mobile HDR setting 1
+[2022.02.22-00.45.11:671][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/' took 0.01s
+[2022.02.22-00.45.12:032][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.02.22-00.45.12:039][  0]SourceControl: Source control is disabled
+[2022.02.22-00.45.12:186][  0]LogSlate: Took 0.004622 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.02.22-00.46.05:913][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2022.02.22-00.46.05:990][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2022.02.22-00.46.05:990][  0]LogUnrealEdMisc: Loading editor; pre map load, took 71.788
+[2022.02.22-00.46.05:991][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.22-00.46.05:998][  0]LightingResults: New page: Lighting Build
+[2022.02.22-00.46.06:019][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-00.46.06:020][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-00.46.06:021][  0]MapCheck: New page: Map Check
+[2022.02.22-00.46.06:021][  0]LightingResults: New page: Lighting Build
+[2022.02.22-00.46.06:027][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-00.46.06:032][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.22-00.46.06:498][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.02.22-00.46.06:499][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.02.22-00.46.06:523][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.22-00.46.06:532][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.02.22-00.46.06:533][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.22-00.46.06:534][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.389ms to complete.
+[2022.02.22-00.46.06:534][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.543
+[2022.02.22-00.46.06:550][  0]LogUnrealEdMisc: Total Editor Startup Time, took 72.348
+[2022.02.22-00.46.06:688][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-00.46.06:696][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-00.46.06:702][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-00.46.06:708][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-00.46.06:745][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0105 seconds. Added 3814 classes and 921 folders.
+[2022.02.22-00.46.06:751][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.22-00.46.06:761][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-00.46.06:761][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:761][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-00.46.06:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:761][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.02.22-00.46.06:761][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.02.22-00.46.06:769][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.22-00.46.06:769][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:769][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.22-00.46.06:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:769][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.02.22-00.46.06:769][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.22-00.46.06:773][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.02.22-00.46.06:773][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:773][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.02.22-00.46.06:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:773][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.02.22-00.46.06:773][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.02.22-00.46.06:778][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-00.46.06:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-00.46.06:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.02.22-00.46.06:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.22-00.46.06:783][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.22-00.46.06:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.22-00.46.06:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.02.22-00.46.06:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.22-00.46.06:787][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.22-00.46.06:787][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:787][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.22-00.46.06:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:787][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.02.22-00.46.06:787][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.22-00.46.06:792][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.22-00.46.06:792][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:792][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.22-00.46.06:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:792][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.02.22-00.46.06:792][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.22-00.46.06:797][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.22-00.46.06:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.22-00.46.06:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.02.22-00.46.06:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.22-00.46.06:802][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-00.46.06:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-00.46.06:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.02.22-00.46.06:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.02.22-00.46.06:810][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.02.22-00.46.06:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:810][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.02.22-00.46.06:810][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:810][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.02.22-00.46.06:810][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.22-00.46.06:814][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.02.22-00.46.06:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.02.22-00.46.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:814][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.02.22-00.46.06:814][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.22-00.46.06:828][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-00.46.06:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-00.46.06:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.02.22-00.46.06:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.22-00.46.06:833][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-00.46.06:833][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:833][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-00.46.06:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:833][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.02.22-00.46.06:833][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.22-00.46.06:839][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-00.46.06:839][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:839][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-00.46.06:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.02.22-00.46.06:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.02.22-00.46.06:844][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.02.22-00.46.06:844][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:844][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.02.22-00.46.06:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:844][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.02.22-00.46.06:844][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.22-00.46.06:849][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-00.46.06:849][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:849][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-00.46.06:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:849][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.02.22-00.46.06:849][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.02.22-00.46.06:854][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.02.22-00.46.06:854][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:854][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.02.22-00.46.06:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:854][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.02.22-00.46.06:854][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.22-00.46.06:859][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-00.46.06:859][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:859][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-00.46.06:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:859][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.02.22-00.46.06:859][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.02.22-00.46.06:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-00.46.06:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-00.46.06:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.02.22-00.46.06:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.22-00.46.06:873][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-00.46.06:873][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:873][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-00.46.06:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:873][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.02.22-00.46.06:873][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.22-00.46.06:878][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.02.22-00.46.06:878][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:878][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.02.22-00.46.06:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:878][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.02.22-00.46.06:878][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.02.22-00.46.06:883][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.02.22-00.46.06:883][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:883][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.02.22-00.46.06:883][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:883][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.02.22-00.46.06:883][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.02.22-00.46.06:888][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.02.22-00.46.06:888][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:888][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.02.22-00.46.06:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:888][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.02.22-00.46.06:888][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.02.22-00.46.06:893][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.02.22-00.46.06:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.02.22-00.46.06:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.02.22-00.46.06:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.02.22-00.46.06:899][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.02.22-00.46.06:899][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:899][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.02.22-00.46.06:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:899][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.02.22-00.46.06:899][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.02.22-00.46.06:904][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.02.22-00.46.06:904][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.02.22-00.46.06:904][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.02.22-00.46.06:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.02.22-00.46.06:904][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.02.22-00.46.06:904][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.02.22-00.46.07:151][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.22-00.46.07:155][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.02.22-00.46.07:240][  0]LogSlate: Took 0.005171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.02.22-00.46.07:245][  0]LogSlate: Took 0.004332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.02.22-00.46.07:363][  0]LogRenderer: Reallocating scene render targets to support 1208x572 Format 10 NumSamples 1 (Frame:1).
+[2022.02.22-00.46.07:455][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.02.22-00.46.07:455][  0]LogLoad: (Engine Initialization) Total time: 73.25 seconds
+[2022.02.22-00.46.07:455][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.02.22-00.46.07:503][  0]LogAssetRegistry: Asset discovery search completed in 62.4591 seconds
+[2022.02.22-00.46.07:527][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.02.22-00.46.07:530][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.02.22-00.46.07:644][  3]LogSlate: Took 0.004544 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.22-00.46.54:221][546]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.02.22-00.46.54:259][546]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.22-00.47.05:765][546]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.02.22-00.47.31:612][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:612][510]LoadErrors: Failed to load /Game/Barrel_Hopper/Character/Mesh/SK_Mannequin.SK_Mannequin Referenced by Default__BH_Character_C
+[2022.02.22-00.47.31:613][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:613][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:629][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:629][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:629][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:630][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:630][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:630][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:631][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:631][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:636][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:636][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:637][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:637][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.22-00.47.31:637][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.22-00.47.31:638][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:638][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:638][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:638][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.22-00.47.31:854][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_N': Can't find file.
+[2022.02.22-00.47.31:854][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_N.T_UE4Logo_N Referenced by M_UE4Man_ChestLogo
+[2022.02.22-00.47.31:854][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:854][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by M_UE4Man_ChestLogo
+[2022.02.22-00.47.31:854][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:854][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by M_UE4Man_ChestLogo
+[2022.02.22-00.47.31:855][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:855][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by M_UE4Man_ChestLogo
+[2022.02.22-00.47.31:859][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\MaterialLayers\ML_Plastic_Shiny_Beige_LOGO.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:859][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by MaterialExpressionTextureSample_2
+[2022.02.22-00.47.31:921][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:922][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by M_Male_Body
+[2022.02.22-00.47.31:922][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:922][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by M_Male_Body
+[2022.02.22-00.47.31:922][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:922][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_UE4Logo_Mask': Can't find file.
+[2022.02.22-00.47.31:922][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_UE4Logo_Mask.T_UE4Logo_Mask Referenced by M_Male_Body
+[2022.02.22-00.47.31:923][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:923][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_N': Can't find file.
+[2022.02.22-00.47.31:924][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_N.T_Male_N Referenced by MaterialExpressionTextureSampleParameter2D_0
+[2022.02.22-00.47.31:924][510]LogLinker: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to load '/Game/Mannequin/Character/Textures/T_Male_Mask': Can't find file.
+[2022.02.22-00.47.31:924][510]LoadErrors: Failed to load /Game/Mannequin/Character/Textures/T_Male_Mask.T_Male_Mask Referenced by MaterialExpressionTextureSampleParameter2D_1
+[2022.02.22-00.47.31:926][510]LogMaterial: Display: Missing cached shadermap for M_Male_Body in PCD3D_SM5, Default, SM5 (DDC key hash: DB1CCD31DE11F5E3DDCFFA6BA478DAC14F8FEFDE), compiling. 
+[2022.02.22-00.47.31:931][510]LogMaterial: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_Male_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2022.02.22-00.47.31:931][510]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2022.02.22-00.47.31:932][510]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 09E80A7D740AE04F197CC061F53F2FE19246802B), compiling. 
+[2022.02.22-00.47.31:933][510]LogMaterial: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Materials\M_UE4Man_ChestLogo.uasset: Failed to compile Material Instance with Base M_Male_Body for platform PCD3D_SM5, Default Material will be used in game.
+[2022.02.22-00.47.31:933][510]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2022.02.22-00.47.31:933][510]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2022.02.22-00.47.31:933][510]LogMaterial: Display: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node TextureSample) Logo Mask> Missing input texture
+[2022.02.22-00.47.31:933][510]LogMaterial: Display: 	Function ML_Plastic_Shiny_Beige_LOGO: (Node MakeMaterialAttributes) Error on property OpacityMask
+[2022.02.22-00.47.55:502][275]LogContentBrowser: Deferred new asset file creation: BH_Character_Child
+[2022.02.22-00.47.55:537][275]LogContentBrowser: Creating deferred item: BH_Character_Child
+[2022.02.22-00.47.59:367][733]LogContentBrowser: Attempting asset rename: BH_Character_Child -> BH_Character_Child
+[2022.02.22-00.47.59:367][733]LogContentBrowser: End creating deferred item BH_Character_Child
+[2022.02.22-00.49.07:241][681]LogContentBrowser: Deferred new asset file creation: UE4_Mannequin_Skeleton_AnimBlueprint
+[2022.02.22-00.49.07:253][681]LogContentBrowser: Creating deferred item: UE4_Mannequin_Skeleton_AnimBlueprint
+[2022.02.22-00.49.23:529][634]LogContentBrowser: Attempting asset rename: UE4_Mannequin_Skeleton_AnimBlueprint -> BH_Character_AnimBP
+[2022.02.22-00.49.23:541][634]LogContentBrowser: End creating deferred item UE4_Mannequin_Skeleton_AnimBlueprint
+[2022.02.22-00.49.31:605][472]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-00.49.31:622][472]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.02.22-00.49.31:632][472]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.02.22-00.49.31:739][472]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.02.22-00.49.31:846][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-00.49.31:850][472]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2022.02.22-00.49.32:521][472]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.02.22-00.49.33:764][472]LogSlate: Took 0.023980 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.02.22-00.49.33:838][473]LogSlate: Took 0.005056 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.02.22-00.53.31:495][715]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{86da4501-e1ca-4a24-b61d-39be1ff35df5}.
+[2022.02.22-00.53.31:495][715]LogAudioMixer: Resetting audio stream to device id 
+[2022.02.22-00.53.31:503][715]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-00.53.31:503][715]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-01.04.39:399][580]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPF0B2506E41B9505C213E8C8EC158354E.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.04.39:426][580]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.04.39:426][580]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.04.40:086][645]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.04.40:121][645]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.02.22-01.05.32:592][430]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.02.22-01.05.32:594][430]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.020
+[2022.02.22-01.05.32:595][430]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP] ([2] browsable assets)...
+[2022.02.22-01.05.32:605][430]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP]
+[2022.02.22-01.05.32:605][430]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP]
+[2022.02.22-01.05.32:617][430]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP_Auto15B2FFE854ADEB3FB6D5B3B90B228D3BB.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Autosaves/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP_Auto1.uasset'
+[2022.02.22-01.05.32:618][430]LogFileHelpers: Auto-saving content packages took 0.024
+[2022.02.22-01.05.59:824][418]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP892DBDFF426BD4E88235978839416090.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.05.59:835][418]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.05.59:835][418]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.06.00:364][468]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.06.00:394][468]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.22-01.06.49:675][552]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPD4584E334469E677D67E07940CC9AE99.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.06.49:687][552]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.06.49:687][552]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.06.51:295][710]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.06.51:327][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2022.02.22-01.06.56:036][147]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.06.56:066][147]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2022.02.22-01.07.02:692][765]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP54A803B64B0D25B90D07999870921C85.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.07.02:703][765]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.07.02:703][765]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.07.03:656][857]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.07.03:685][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2022.02.22-01.07.10:251][463]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.07.10:280][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.02.22-01.07.42:358][834]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP1BF0DA3C411A4C3DBA0C3C874F70501B.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.07.42:369][834]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.07.42:369][834]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.08.27:606][137]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP09B0151440DBBE1A5BCC2E869BA697B4.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.08.27:620][137]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.08.27:620][137]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.08.28:294][202]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.08.28:325][202]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2022.02.22-01.08.43:122][531]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP0BA036104D3B6A60F289CFBC14FA9EB4.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.08.43:133][531]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.08.43:133][531]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.08.45:120][711]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonIdle.ThirdPersonIdle
+[2022.02.22-01.08.45:128][711]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-01.08.45:747][711]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.22-01.08.47:980][873]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.08.47:980][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.08.47:995][873]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.08.47:995][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.08.48:038][873]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.08.48:038][873]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.08.52:881][309]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonIdle.ThirdPersonIdle
+[2022.02.22-01.08.52:885][309]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-01.08.53:196][309]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2022.02.22-01.09.00:559][892]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.09.00:628][892]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.02.22-01.17.20:196][841]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.17.20:200][841]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.17.20:200][841]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.17.20:243][841]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.02.22-01.17.20:281][841]LogSlate: Took 0.006420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.02.22-01.18.00:885][849]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.02.22-01.18.00:891][849]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.031
+[2022.02.22-01.18.00:892][849]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP] ([2] browsable assets)...
+[2022.02.22-01.18.00:901][849]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP]
+[2022.02.22-01.18.00:901][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP]
+[2022.02.22-01.18.00:921][849]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP_Auto27DEC46704206C705F10C1AA3D30FF865.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Autosaves/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP_Auto2.uasset'
+[2022.02.22-01.18.00:922][849]LogFileHelpers: Auto-saving content packages took 0.030
+[2022.02.22-01.18.15:764][102]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.18.15:768][102]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.15:768][102]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.15:806][102]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.02.22-01.18.16:583][149]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP250597AC4FDE0B88304B95BE701D378D.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.18.16:595][149]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.18.16:595][149]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.18.26:087][881]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.18.26:092][881]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.26:092][881]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.26:130][881]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.02.22-01.18.26:917][934]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP37E6E45349A6D238AADF2395DCCDFD77.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.18.26:929][934]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.18.26:929][934]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.18.41:670][138]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.18.41:674][138]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.41:674][138]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.18.41:714][138]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2022.02.22-01.18.43:003][247]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP18F190B14F4D729B032AF4B7E18E61F7.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.18.43:015][247]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.18.43:015][247]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.19.56:199][752]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.19.56:204][752]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpLoop to JumpEnd  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.19.56:204][752]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.19.56:244][752]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2022.02.22-01.19.58:820][979]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPAE9A462047DEDCCB5519B08E02462A3B.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.19.58:832][979]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.19.58:832][979]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.20.59:520][578]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.20.59:524][578]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.20.59:564][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2022.02.22-01.21.00:667][660]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPBBC78FC34AA5F64D8A3A2D9312252DE7.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.21.00:679][660]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.21.00:679][660]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.21.40:841][637]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.21.40:845][637]LogBlueprint: Warning: [AssetLog] C:\Users\Temp Admin\Documents\Unreal Projects\BarrelHopper\Content\Barrel_Hopper\Character\Mesh\BH_Character_AnimBP.uasset: [Compiler] JumpEnd to Idle  will never be taken, please connect something to  Can Enter Transition
+[2022.02.22-01.21.40:885][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.90ms
+[2022.02.22-01.21.42:386][764]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPE72E5E9046034C95577F5A8965D6C46F.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.21.42:398][764]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.21.42:398][764]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.22.31:339][143]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.22.31:383][143]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.02.22-01.22.31:952][178]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP221B3C4740D664642E416984C880C17D.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.22.31:964][178]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.22.31:965][178]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.23.38:196][528]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.23.38:240][528]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2022.02.22-01.23.39:836][636]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP7F7DFB1D4D59277238298298DC0B83B6.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.23.39:850][636]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.23.39:850][636]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.24.34:851][239]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP6CC348FA42A56B058A89549D46190B25.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.24.34:864][239]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.24.34:864][239]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.24.37:316][430]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Barrel_Hopper/Character/BH_Character.BH_Character
+[2022.02.22-01.25.01:320][535]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.22-01.25.01:341][535]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.22-01.25.07:710][128]BlueprintLog: New page: Compile BH_Character
+[2022.02.22-01.25.07:782][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2022.02.22-01.25.08:528][179]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_CharacterAEA2CD7F412E62ED6EA6BBA35EFB06AF.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.02.22-01.25.08:540][179]AssetCheck: New page: Asset Save: BH_Character
+[2022.02.22-01.25.08:540][179]LogContentValidation: Display: Validating Blueprint /Game/Barrel_Hopper/Character/BH_Character.BH_Character
+[2022.02.22-01.28.14:516][233]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPDF3CDADD47C6673FFAECD0B88AC86B90.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.uasset'
+[2022.02.22-01.28.14:531][233]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.28.14:531][233]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.28.14:918][267]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.28.14:974][267]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2022.02.22-01.28.29:577][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2022.02.22-01.28.29:779][387]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Barrel_Hopper/Levels/BarrelHopperMap.BarrelHopperMap
+[2022.02.22-01.28.29:779][387]Cmd: MAP LOAD FILE="../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Levels/BarrelHopperMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.02.22-01.28.29:779][387]LightingResults: New page: Lighting Build
+[2022.02.22-01.28.29:780][387]LoadErrors: New page: Loading map: BarrelHopperMap.umap
+[2022.02.22-01.28.29:782][387]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.28.29:782][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.28.29:783][387]MapCheck: New page: Map Check
+[2022.02.22-01.28.29:783][387]LightingResults: New page: Lighting Build
+[2022.02.22-01.28.29:806][387]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-01.28.29:812][387]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.02.22-01.28.29:814][387]LogAudio: Display: Audio Device (ID: 1) registered with world 'BarrelHopperMap'.
+[2022.02.22-01.28.29:827][387]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.02.22-01.28.29:827][387]LogAIModule: Creating AISystem for world BarrelHopperMap
+[2022.02.22-01.28.29:855][387]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.02.22-01.28.29:863][387]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.02.22-01.28.29:863][387]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
+[2022.02.22-01.28.29:863][387]LogFileHelpers: Loading map 'BarrelHopperMap' took 0.084
+[2022.02.22-01.28.32:550][697]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-01.28.32:556][697]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-01.28.32:556][697]PIE: New page: PIE session: BarrelHopperMap (Feb 21, 2022, 9:28:32 AM)
+[2022.02.22-01.28.32:558][697]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.02.22-01.28.32:560][697]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.02.22-01.28.32:560][697]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-01.28.32:569][697]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009493s)
+[2022.02.22-01.28.32:570][697]LogAIModule: Creating AISystem for world BarrelHopperMap
+[2022.02.22-01.28.32:570][697]LogPlayLevel: PIE: World Init took: (0.001016s)
+[2022.02.22-01.28.32:570][697]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/BarrelHopperMap.BarrelHopperMap to /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap (0.010648s)
+[2022.02.22-01.28.32:596][697]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.02.22-01.28.32:599][697]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-01.28.32:599][697]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-01.28.32:599][697]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-01.28.32:599][697]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-01.28.32:599][697]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-01.28.32:599][697]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-01.28.32:605][697]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-01.28.32:605][697]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-01.28.32:614][697]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2022.02.22-01.28.32:614][697]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-01.28.32:614][697]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-01.28.32:614][697]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-01.28.32:614][697]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-01.28.32:615][697]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-01.28.32:615][697]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-01.28.32:616][697]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-01.28.32:616][697]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-01.28.32:616][697]LogInit: FAudioDevice initialized.
+[2022.02.22-01.28.32:616][697]LogAudio: Display: Audio Device (ID: 2) registered with world 'BarrelHopperMap'.
+[2022.02.22-01.28.32:627][697]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.22-01.28.32:629][697]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap up for play (max tick rate 0) at 2022.02.21-17.28.32
+[2022.02.22-01.28.32:629][697]LogWorld: Bringing up level for play took: 0.001080
+[2022.02.22-01.28.32:629][697]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.02.22-01.28.32:637][697]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2022.02.22-01.28.32:641][697]PIE: Server logged in
+[2022.02.22-01.28.32:643][697]PIE: Play in editor total start time 0.088 seconds.
+[2022.02.22-01.28.45:482][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-01.28.45:482][195]LogWorld: BeginTearingDown for /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-01.28.45:482][195]LogWorld: UWorld::CleanupWorld for BarrelHopperMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.28.45:483][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.28.45:492][195]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-01.28.45:499][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.28.45:526][195]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-01.28.45:527][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-01.28.45:528][195]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-01.28.45:561][195]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2022.02.22-01.28.45:583][196]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.02.22-01.30.50:300][140]LogSlate: Window 'Pick Skeleton' being destroyed
+[2022.02.22-01.30.50:307][140]LogContentBrowser: Deferred new asset file creation: NewBlendSpace1D
+[2022.02.22-01.30.50:321][140]LogContentBrowser: Creating deferred item: NewBlendSpace1D
+[2022.02.22-01.31.05:332][848]LogContentBrowser: Attempting asset rename: NewBlendSpace1D -> BH_Idle_Run_BS1D
+[2022.02.22-01.31.05:334][848]LogContentBrowser: End creating deferred item NewBlendSpace1D
+[2022.02.22-01.31.09:726][271]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace1D /Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.02.22-01.31.09:816][271]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.31.09:816][271]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.33.22:887][196]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Idle_Run_BS1D1CD0C67E4C47D4C74193FE9A0DE845F5.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Idle_Run_BS1D.uasset'
+[2022.02.22-01.33.22:902][196]AssetCheck: New page: Asset Save: BH_Idle_Run_BS1D
+[2022.02.22-01.33.22:902][196]LogContentValidation: Display: Validating BlendSpace1D /Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.02.22-01.34.07:248][ 24]LogSlate: Window 'Animation Data Modifiers' being destroyed
+[2022.02.22-01.34.07:253][ 24]LogSlate: Window 'Animation Data Modifiers' being destroyed
+[2022.02.22-01.36.59:837][234]LogWindows: LaunchURL https://docs.unrealengine.com/4.27/en//Engine/Animation/Blendspaces/index.html?utm_source=editor&utm_medium=docs&utm_campaign=doc_anchors
+[2022.02.22-01.37.19:141][678]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.37.19:141][678]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.39.05:669][538]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2022.02.22-01.39.05:678][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Barrel_Hopper/Levels/BarrelHopperMap' took 0.057
+[2022.02.22-01.39.05:678][538]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D] ([1] browsable assets)...
+[2022.02.22-01.39.05:687][538]OBJ SavePackage:     Rendered thumbnail for [BlendSpace1D /Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D]
+[2022.02.22-01.39.05:687][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D]
+[2022.02.22-01.39.05:692][538]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Idle_Run_BS1D_Auto3A71A505341BC0497DF22BCB1BAE0E21F.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Autosaves/Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D_Auto3.uasset'
+[2022.02.22-01.39.05:693][538]LogFileHelpers: Auto-saving content packages took 0.016
+[2022.02.22-01.40.48:330][599]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Idle_Run_BS1DD020EA1D4B101918F1B6EC84BB51DD8F.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Idle_Run_BS1D.uasset'
+[2022.02.22-01.40.48:344][599]AssetCheck: New page: Asset Save: BH_Idle_Run_BS1D
+[2022.02.22-01.40.48:344][599]LogContentValidation: Display: Validating BlendSpace1D /Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.02.22-01.41.04:033][920]LogSlate: Window 'BH_Character' being destroyed
+[2022.02.22-01.41.04:037][920]LogSlate: Window 'BH_Character' being destroyed
+[2022.02.22-01.41.04:081][920]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.41.04:081][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.41.04:092][920]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.41.04:092][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.41.04:178][920]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.41.04:179][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.41.04:193][920]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.41.04:193][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.41.04:250][920]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.41.04:250][920]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_Root_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.SKEL_BH_Character_AnimBP_C' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP_C' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:EventGraph.K2Node_CallFunction_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateEntryNode_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateNode_0.Idle.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateNode_1.JumpBegin.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateTransitionNode_0.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateNode_3.JumpEnd.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateTransitionNode_1.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateNode_2.JumpLoop.AnimGraphNode_StateResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP_C:AnimGraph' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.SKEL_BH_Character_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP:AnimGraph.AnimGraphNode_StateMachine_0.Character Locomotion.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_0' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:168][539]LogMetaData: Removing '/Game/Barrel_Hopper/Character/BH_Character_AnimBP.SKEL_BH_Character_AnimBP_C:AnimGraph' ref from Metadata '/Game/Barrel_Hopper/Character/Mesh/BH_Character_AnimBP.PackageMetaData'
+[2022.02.22-01.41.19:233][539]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP9F5A70614A14B815936F00A39B898969.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character_AnimBP.uasset'
+[2022.02.22-01.41.19:359][539]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2022.02.22-01.41.19:451][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2022.02.22-01.41.19:465][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2022.02.22-01.41.19:509][539]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character60FC33DA48156AEF8CF7AFB41ED357B3.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character.uasset'
+[2022.02.22-01.41.19:557][539]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.22-01.41.19:557][539]LogContentValidation: Display: Validating Blueprint /Game/Barrel_Hopper/Character/BH_Character.BH_Character
+[2022.02.22-01.41.19:557][539]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.41.21:798][731]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.41.21:805][731]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-01.42.23:296][523]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.42.23:338][523]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.02.22-01.42.24:251][598]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPF243391B410B5B42A284389CC0B8ACDF.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character_AnimBP.uasset'
+[2022.02.22-01.42.24:262][598]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.42.24:262][598]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.43.28:875][803]BlueprintLog: New page: Compile BH_Character_AnimBP
+[2022.02.22-01.43.28:919][803]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.02.22-01.43.29:651][860]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBPFC33492F41BA029E3FC7648319E7D4B8.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character_AnimBP.uasset'
+[2022.02.22-01.43.29:663][860]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-01.43.29:663][860]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-01.43.36:883][587]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-01.43.36:888][587]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.02.22-01.43.36:889][587]LogPlayLevel: [PlayLevel] Compiling BH_Character before play...
+[2022.02.22-01.43.36:928][587]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.02.22-01.43.36:930][587]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2022.02.22-01.43.36:930][587]PIE: New page: PIE session: BarrelHopperMap (Feb 21, 2022, 9:43:36 AM)
+[2022.02.22-01.43.36:930][587]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-01.43.36:940][587]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009431s)
+[2022.02.22-01.43.36:940][587]LogAIModule: Creating AISystem for world BarrelHopperMap
+[2022.02.22-01.43.36:941][587]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2022.02.22-01.43.36:941][587]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/BarrelHopperMap.BarrelHopperMap to /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap (0.010612s)
+[2022.02.22-01.43.36:958][587]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2022.02.22-01.43.36:958][587]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-01.43.36:959][587]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-01.43.36:959][587]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-01.43.36:959][587]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-01.43.36:959][587]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-01.43.36:959][587]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-01.43.36:965][587]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-01.43.36:965][587]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-01.43.36:974][587]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2022.02.22-01.43.36:974][587]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-01.43.36:974][587]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-01.43.36:974][587]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-01.43.36:975][587]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-01.43.36:975][587]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-01.43.36:975][587]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-01.43.36:976][587]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-01.43.36:976][587]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-01.43.36:976][587]LogInit: FAudioDevice initialized.
+[2022.02.22-01.43.36:976][587]LogAudio: Display: Audio Device (ID: 3) registered with world 'BarrelHopperMap'.
+[2022.02.22-01.43.36:983][587]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.22-01.43.36:985][587]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap up for play (max tick rate 0) at 2022.02.21-17.43.36
+[2022.02.22-01.43.36:985][587]LogWorld: Bringing up level for play took: 0.001072
+[2022.02.22-01.43.36:985][587]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.02.22-01.43.36:988][587]PIE: Server logged in
+[2022.02.22-01.43.36:988][587]PIE: Play in editor total start time 0.101 seconds.
+[2022.02.22-01.43.53:512][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-01.43.53:512][563]LogWorld: BeginTearingDown for /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-01.43.53:512][563]LogWorld: UWorld::CleanupWorld for BarrelHopperMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-01.43.53:513][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.43.53:519][563]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-01.43.53:523][563]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-01.43.53:542][563]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-01.43.53:542][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-01.43.53:543][563]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-01.43.53:549][563]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2022.02.22-01.43.53:581][566]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.02.22-02.58.53:251][982]LogRenderer: Reallocating scene render targets to support 1212x572 Format 10 NumSamples 1 (Frame:224183).
+[2022.02.22-02.58.53:337][985]LogRenderer: Reallocating scene render targets to support 1216x572 Format 10 NumSamples 1 (Frame:224189).
+[2022.02.22-02.58.53:399][987]LogRenderer: Reallocating scene render targets to support 1220x572 Format 10 NumSamples 1 (Frame:224193).
+[2022.02.22-05.32.12:361][337]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/StarterContent/Audio/Fire_Sparks01_Cue.Fire_Sparks01_Cue
+[2022.02.22-06.13.41:332][959]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav)
+[2022.02.22-06.13.41:333][959]Error: Unable to read wave file 'DeathSound' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.02.22-06.13.41:333][959]Error: Unrecognized sound format 'wav' in DeathSound
+[2022.02.22-06.13.53:069][959]LogSlate: Window 'Message' being destroyed
+[2022.02.22-06.13.53:075][959]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.13.53:075][959]LogAssetTools: Warning: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.14.24:041][657]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\Footstep.wav)
+[2022.02.22-06.14.28:475][692]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav)
+[2022.02.22-06.14.28:475][692]Error: Unable to read wave file 'DeathSound' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.02.22-06.14.28:475][692]Error: Unrecognized sound format 'wav' in DeathSound
+[2022.02.22-06.14.39:266][692]LogSlate: Window 'Message' being destroyed
+[2022.02.22-06.14.39:271][692]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.14.39:271][692]LogAssetTools: Warning: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.14.54:975][135]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav)
+[2022.02.22-06.14.54:975][135]Error: Unable to read wave file 'DeathSound' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.02.22-06.14.54:975][135]Error: Unrecognized sound format 'wav' in DeathSound
+[2022.02.22-06.14.59:494][135]LogSlate: Window 'Message' being destroyed
+[2022.02.22-06.14.59:498][135]Message dialog closed, result: Cancel, title: Message, text: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.14.59:498][135]LogAssetTools: Warning: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.15.00:204][185]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Footstep...
+[2022.02.22-06.15.00:205][185]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Barrel_Hopper/Sounds/Footstep.Footstep will be modified from 40 to 40.
+[2022.02.22-06.15.00:223][185]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 43236 while cooking SoundWave /Game/Barrel_Hopper/Sounds/Footstep.Footstep.
+[2022.02.22-06.15.47:045][339]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 ../../../../../../Users/Temp Admin/Downloads/UnrealEngine4.XByExample_Code/Code/Assets/DeathSound.wav)
+[2022.02.22-06.15.47:045][339]Error: Unable to read wave file 'DeathSound' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.02.22-06.15.47:045][339]Error: Unrecognized sound format 'wav' in DeathSound
+[2022.02.22-06.15.52:168][339]LogSlate: Window 'Message' being destroyed
+[2022.02.22-06.15.52:172][339]Message dialog closed, result: Ok, title: Message, text: Failed to import '../../../../../../Users/Temp Admin/Downloads/UnrealEngine4.XByExample_Code/Code/Assets/DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.15.52:172][339]LogAssetTools: Warning: Failed to import '../../../../../../Users/Temp Admin/Downloads/UnrealEngine4.XByExample_Code/Code/Assets/DeathSound.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/DeathSound'.
+Please see Output Log for details.
+[2022.02.22-06.18.06:337][887]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\Death.wav)
+[2022.02.22-06.18.06:337][887]Error: Unable to read wave file 'Death' - "Unsupported wave file format.  Only PCM, ADPCM, and DVI ADPCM can be imported."
+[2022.02.22-06.18.06:337][887]Error: Unrecognized sound format 'wav' in Death
+[2022.02.22-06.18.07:904][887]LogSlate: Window 'Message' being destroyed
+[2022.02.22-06.18.07:909][887]Message dialog closed, result: Ok, title: Message, text: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\Death.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/Death'.
+Please see Output Log for details.
+[2022.02.22-06.18.07:909][887]LogAssetTools: Warning: Failed to import 'C:\Users\Temp Admin\Downloads\UnrealEngine4.XByExample_Code\Code\Assets\Death.wav'. Failed to create asset '/Game/Barrel_Hopper/Sounds/Death'.
+Please see Output Log for details.
+[2022.02.22-06.23.53:821][762]LogUObjectHash: Compacting FUObjectHashTables data took  17.25ms
+[2022.02.22-06.23.53:930][762]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Barrel_Hopper/Levels/BarrelHopperMap' took 0.305
+[2022.02.22-06.23.53:932][762]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Barrel_Hopper/Sounds/Footstep] ([1] browsable assets)...
+[2022.02.22-06.23.53:939][762]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Barrel_Hopper/Sounds/Footstep.Footstep]
+[2022.02.22-06.23.53:939][762]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Sounds/Footstep]
+[2022.02.22-06.23.53:944][762]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Footstep_Auto46F8C17714F779F620A95FDB652F45611.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Autosaves/Game/Barrel_Hopper/Sounds/Footstep_Auto4.uasset'
+[2022.02.22-06.23.53:945][762]LogFileHelpers: Auto-saving content packages took 0.014
+[2022.02.22-06.56.51:560][329]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 C:\Users\Temp Admin\Desktop\Death.wav)
+[2022.02.22-06.56.53:362][340]LogAssetEditorSubsystem: Opening Asset editor for SoundWave /Game/Barrel_Hopper/Sounds/Death.Death
+[2022.02.22-06.56.54:172][423]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave Death...
+[2022.02.22-06.56.54:172][423]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Barrel_Hopper/Sounds/Death.Death will be modified from 40 to 40.
+[2022.02.22-06.56.54:191][423]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 161380 while cooking SoundWave /Game/Barrel_Hopper/Sounds/Death.Death.
+[2022.02.22-06.57.15:993][939]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.02.22-06.57.16:005][939]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.02.22-06.57.21:779][632]LogContentBrowser: Attempting asset rename: NewSoundCue -> BH_Footstep
+[2022.02.22-06.57.21:780][632]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.02.22-06.57.25:743][ 80]LogContentBrowser: Deferred new asset file creation: NewSoundCue
+[2022.02.22-06.57.25:755][ 80]LogContentBrowser: Creating deferred item: NewSoundCue
+[2022.02.22-06.57.29:702][554]LogContentBrowser: Attempting asset rename: NewSoundCue -> BH_Death
+[2022.02.22-06.57.29:703][554]LogContentBrowser: End creating deferred item NewSoundCue
+[2022.02.22-06.57.40:694][868]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Barrel_Hopper/Sounds/BH_Death.BH_Death
+[2022.02.22-06.57.43:210][157]LogAssetEditorSubsystem: Opening Asset editor for SoundCue /Game/Barrel_Hopper/Sounds/BH_Footstep.BH_Footstep
+[2022.02.22-06.58.43:070][168]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Barrel_Hopper/Sounds/BH_Footstep.BH_Footstep was zero and has changed. Consider manually Re-saving the asset
+[2022.02.22-07.00.01:405][913]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2022.02.22-07.00.01:410][913]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Barrel_Hopper/Levels/BarrelHopperMap' took 0.032
+[2022.02.22-07.00.01:410][913]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Barrel_Hopper/Sounds/Death] ([1] browsable assets)...
+[2022.02.22-07.00.01:415][913]OBJ SavePackage:     Rendered thumbnail for [SoundWave /Game/Barrel_Hopper/Sounds/Death.Death]
+[2022.02.22-07.00.01:416][913]OBJ SavePackage: Finished generating thumbnails for package [/Game/Barrel_Hopper/Sounds/Death]
+[2022.02.22-07.00.01:418][913]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Death_Auto5CE627EED4DD4A68230855B8F227E6AA3.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Autosaves/Game/Barrel_Hopper/Sounds/Death_Auto5.uasset'
+[2022.02.22-07.00.01:419][913]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.02.22-07.00.07:035][435]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/Barrel_Hopper/Sounds/BH_Death.BH_Death was zero and has changed. Consider manually Re-saving the asset
+[2022.02.22-07.00.08:191][546]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Sounds/BH_Death" FILE="../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/BH_Death.uasset" SILENT=true
+[2022.02.22-07.00.08:193][546]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_DeathC9DB152940370FE2DAEA1AB0AD6F7BD7.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/BH_Death.uasset'
+[2022.02.22-07.00.08:205][546]AssetCheck: New page: Asset Save: BH_Death
+[2022.02.22-07.00.08:205][546]LogContentValidation: Display: Validating SoundCue /Game/Barrel_Hopper/Sounds/BH_Death.BH_Death
+[2022.02.22-07.00.09:974][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Sounds/Death" FILE="../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/Death.uasset" SILENT=true
+[2022.02.22-07.00.09:975][723]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/Death754EB91B43C1C9691C3035864BA1EEF7.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/Death.uasset'
+[2022.02.22-07.00.09:986][723]AssetCheck: New page: Asset Save: Death
+[2022.02.22-07.00.09:986][723]LogContentValidation: Display: Validating SoundWave /Game/Barrel_Hopper/Sounds/Death.Death
+[2022.02.22-07.00.11:249][824]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Character_AnimBP9D19597848588267FE84E9A926E23711.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Character_AnimBP.uasset'
+[2022.02.22-07.00.11:264][824]AssetCheck: New page: Asset Save: BH_Character_AnimBP
+[2022.02.22-07.00.11:264][824]LogContentValidation: Display: Validating AnimBlueprint /Game/Barrel_Hopper/Character/BH_Character_AnimBP.BH_Character_AnimBP
+[2022.02.22-07.00.12:725][951]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_FootstepA7811EFF4656BF4C23B3F79FC40FDE56.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/BH_Footstep.uasset'
+[2022.02.22-07.00.12:736][951]AssetCheck: New page: Asset Save: BH_Footstep
+[2022.02.22-07.00.12:736][951]LogContentValidation: Display: Validating SoundCue /Game/Barrel_Hopper/Sounds/BH_Footstep.BH_Footstep
+[2022.02.22-07.01.32:502][400]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-07.01.32:508][400]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-07.01.32:508][400]PIE: New page: PIE session: BarrelHopperMap (Feb 21, 2022, 3:01:32 PM)
+[2022.02.22-07.01.32:508][400]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-07.01.32:664][400]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155440s)
+[2022.02.22-07.01.32:665][400]LogAIModule: Creating AISystem for world BarrelHopperMap
+[2022.02.22-07.01.32:666][400]LogPlayLevel: PIE: World Init took: (0.001969s)
+[2022.02.22-07.01.32:666][400]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/BarrelHopperMap.BarrelHopperMap to /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap (0.157591s)
+[2022.02.22-07.01.32:686][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2022.02.22-07.01.32:691][400]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-07.01.32:691][400]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-07.01.32:691][400]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-07.01.32:691][400]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-07.01.32:691][400]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-07.01.32:691][400]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-07.01.32:697][400]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-07.01.32:698][400]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-07.01.32:708][400]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2022.02.22-07.01.32:709][400]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-07.01.32:709][400]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-07.01.32:709][400]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-07.01.32:712][400]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-07.01.32:712][400]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-07.01.32:712][400]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-07.01.32:713][400]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-07.01.32:713][400]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-07.01.32:713][400]LogInit: FAudioDevice initialized.
+[2022.02.22-07.01.32:713][400]LogAudio: Display: Audio Device (ID: 4) registered with world 'BarrelHopperMap'.
+[2022.02.22-07.01.32:732][400]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.22-07.01.32:734][400]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap up for play (max tick rate 0) at 2022.02.21-23.01.32
+[2022.02.22-07.01.32:734][400]LogWorld: Bringing up level for play took: 0.001954
+[2022.02.22-07.01.32:735][400]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.02.22-07.01.32:741][400]PIE: Server logged in
+[2022.02.22-07.01.32:742][400]PIE: Play in editor total start time 0.235 seconds.
+[2022.02.22-07.02.00:679][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-07.02.00:679][707]LogWorld: BeginTearingDown for /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-07.02.00:679][707]LogWorld: UWorld::CleanupWorld for BarrelHopperMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.02.00:679][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.02.00:688][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-07.02.00:692][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.02.00:710][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-07.02.00:710][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.02.00:711][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.02.00:717][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.02.22-07.02.00:772][709]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.02.22-07.03.05:105][846]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonRun.ThirdPersonRun
+[2022.02.22-07.03.05:109][846]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.02.22-07.06.56:442][870]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.02.22-07.06.56:511][870]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.02.22-07.08.35:375][248]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/ThirdPersonRun05E271F449F2953EDDF0EDB21790CCC8.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/ThirdPersonRun.uasset'
+[2022.02.22-07.08.35:388][248]AssetCheck: New page: Asset Save: ThirdPersonRun
+[2022.02.22-07.08.35:388][248]LogContentValidation: Display: Validating AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonRun.ThirdPersonRun
+[2022.02.22-07.08.37:417][375]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonWalk.ThirdPersonWalk
+[2022.02.22-07.08.37:489][375]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.08.37:489][375]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.09.35:798][184]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.02.22-07.09.35:864][184]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.09.35:865][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.10.34:513][770]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/ThirdPersonJump_StartEAE73625417A1648564406B19C84E03C.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/ThirdPersonJump_Start.uasset'
+[2022.02.22-07.10.34:528][770]AssetCheck: New page: Asset Save: ThirdPersonJump_Start
+[2022.02.22-07.10.34:529][770]LogContentValidation: Display: Validating AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.02.22-07.11.02:733][139]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/ThirdPersonJump_Start2E0217B0404DDC9E9FA27CAC8B84ABC0.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/ThirdPersonJump_Start.uasset'
+[2022.02.22-07.11.02:747][139]AssetCheck: New page: Asset Save: ThirdPersonJump_Start
+[2022.02.22-07.11.02:747][139]LogContentValidation: Display: Validating AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonJump_Start.ThirdPersonJump_Start
+[2022.02.22-07.11.28:334][460]LogTemp: Repeating last play command: Selected Viewport
+[2022.02.22-07.11.28:340][460]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.02.22-07.11.28:340][460]PIE: New page: PIE session: BarrelHopperMap (Feb 21, 2022, 3:11:28 PM)
+[2022.02.22-07.11.28:378][460]LogPlayLevel: Creating play world package: /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-07.11.28:389][460]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011296s)
+[2022.02.22-07.11.28:390][460]LogAIModule: Creating AISystem for world BarrelHopperMap
+[2022.02.22-07.11.28:390][460]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2022.02.22-07.11.28:390][460]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Barrel_Hopper/Levels/BarrelHopperMap.BarrelHopperMap to /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap (0.012539s)
+[2022.02.22-07.11.28:413][460]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2022.02.22-07.11.28:419][460]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.02.22-07.11.28:419][460]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.02.22-07.11.28:419][460]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.02.22-07.11.28:419][460]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.02.22-07.11.28:419][460]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.02.22-07.11.28:419][460]LogAudioMixer: Display: Initializing audio mixer.
+[2022.02.22-07.11.28:425][460]LogAudioMixer: Display: 0: FrontLeft
+[2022.02.22-07.11.28:425][460]LogAudioMixer: Display: 1: FrontRight
+[2022.02.22-07.11.28:435][460]LogAudioMixer: Display: Using Audio Device Speakers (G533 Gaming Headset)
+[2022.02.22-07.11.28:437][460]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.02.22-07.11.28:437][460]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.02.22-07.11.28:437][460]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.02.22-07.11.28:437][460]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.02.22-07.11.28:437][460]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.02.22-07.11.28:437][460]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.02.22-07.11.28:439][460]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.02.22-07.11.28:439][460]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.02.22-07.11.28:439][460]LogInit: FAudioDevice initialized.
+[2022.02.22-07.11.28:439][460]LogAudio: Display: Audio Device (ID: 5) registered with world 'BarrelHopperMap'.
+[2022.02.22-07.11.28:446][460]LogLoad: Game class is 'BH_GameMode_C'
+[2022.02.22-07.11.28:448][460]LogWorld: Bringing World /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap.BarrelHopperMap up for play (max tick rate 0) at 2022.02.21-23.11.28
+[2022.02.22-07.11.28:448][460]LogWorld: Bringing up level for play took: 0.001084
+[2022.02.22-07.11.28:448][460]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.02.22-07.11.28:451][460]PIE: Server logged in
+[2022.02.22-07.11.28:452][460]PIE: Play in editor total start time 0.113 seconds.
+[2022.02.22-07.11.57:608][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-07.11.57:608][672]LogWorld: BeginTearingDown for /Game/Barrel_Hopper/Levels/UEDPIE_0_BarrelHopperMap
+[2022.02.22-07.11.57:609][672]LogWorld: UWorld::CleanupWorld for BarrelHopperMap, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.11.57:609][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.11.57:617][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.02.22-07.11.57:621][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.11.57:638][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.02.22-07.11.57:639][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.11.57:640][672]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.11.57:642][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.02.22-07.11.57:646][672]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2022.02.22-07.11.57:685][674]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2022.02.22-07.12.01:988][ 50]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2022.02.22-07.12.01:994][ 50]LogSlate: Window 'ThirdPersonJump_Start' being destroyed
+[2022.02.22-07.12.02:009][ 50]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.02:009][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.12.02:022][ 50]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.02:023][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.12.02:290][ 50]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.02:290][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.12.02:331][ 50]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.02:331][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.12.02:346][ 50]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.02:346][ 50]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.02.22-07.12.13:274][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2022.02.22-07.12.15:144][ 77]LogSlate: Window 'Save Content' being destroyed
+[2022.02.22-07.12.15:179][ 77]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/BH_Idle_Run_BS1D6431C72F431143ACE0C3748605974D56.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/BH_Idle_Run_BS1D.uasset'
+[2022.02.22-07.12.15:181][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Barrel_Hopper/Sounds/Footstep" FILE="../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/Footstep.uasset" SILENT=true
+[2022.02.22-07.12.15:182][ 77]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/FootstepEAB3E92B417FEFB110307CB0E60BA0D2.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Sounds/Footstep.uasset'
+[2022.02.22-07.12.15:228][ 77]LogSavePackage: Moving '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Saved/ThirdPersonWalkDB2652F54155263B4C7FAEBBC0E0FFB0.tmp' to '../../../../../../Users/Temp Admin/Documents/Unreal Projects/BarrelHopper/Content/Barrel_Hopper/Character/ThirdPersonWalk.uasset'
+[2022.02.22-07.12.15:262][ 77]LogSlate: Window 'BarrelHopper - Unreal Editor' being destroyed
+[2022.02.22-07.12.15:428][ 77]AssetCheck: New page: Asset Save: multiple assets
+[2022.02.22-07.12.15:428][ 77]LogContentValidation: Display: Validating BlendSpace1D /Game/Barrel_Hopper/Character/BH_Idle_Run_BS1D.BH_Idle_Run_BS1D
+[2022.02.22-07.12.15:428][ 77]LogContentValidation: Display: Validating SoundWave /Game/Barrel_Hopper/Sounds/Footstep.Footstep
+[2022.02.22-07.12.15:428][ 77]LogContentValidation: Display: Validating AnimSequence /Game/Barrel_Hopper/Character/ThirdPersonWalk.ThirdPersonWalk
+[2022.02.22-07.12.15:430][ 78]Cmd: QUIT_EDITOR
+[2022.02.22-07.12.15:430][ 78]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.02.22-07.12.15:443][ 78]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.02.22-07.12.16:063][ 78]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.02.22-07.12.16:063][ 78]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.02.22-07.12.16:063][ 78]LogAudio: Display: Audio Device unregistered from world 'BarrelHopperMap'.
+[2022.02.22-07.12.16:063][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.12.16:065][ 78]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.02.22-07.12.16:080][ 78]LogAudio: Display: Audio Device Manager Shutdown
+[2022.02.22-07.12.16:082][ 78]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (Microsoft IME).
+[2022.02.22-07.12.16:091][ 78]LogExit: Preparing to exit.
+[2022.02.22-07.12.16:870][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2022.02.22-07.12.17:230][ 78]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:232][ 78]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:234][ 78]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:235][ 78]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:237][ 78]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:238][ 78]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2022.02.22-07.12.17:240][ 78]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:242][ 78]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:243][ 78]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.02.22-07.12.17:353][ 78]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2022.02.22-07.12.17:391][ 78]LogExit: Editor shut down
+[2022.02.22-07.12.17:394][ 78]LogExit: Transaction tracking system shut down
